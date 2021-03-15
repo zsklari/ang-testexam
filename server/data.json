@@ -1,6 +1,14 @@
 {
   "products": [
     {
+      "id":1,
+      "name":"Wine - Kwv Chenin Blanc South",
+      "description":"Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "price":71,
+      "featured":false,
+      "active":false
+    },
+    {
       "id": 2,
       "name": "Ecolab Digiclean Mild Fm",
       "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",

@@ -18,7 +18,6 @@ export class ProductListComponent implements OnInit {
   }
 
   onDelete(product: Product): void {
-  this.delete.emit(product);
-}
-
+    this.delete.emit(product);
+  }
 }
